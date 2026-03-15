@@ -17,8 +17,8 @@ The repository is organized into three main categories:
 * **Sudoku Solver:** A robust solver that uses the Backtracking technique to find solutions by exploring and discarding branches of possibilities efficiently.
 
 ### 2. Graph Theory and Pathfinding
-* **DFS, BFS and Pathfinding:** A comparative study of Depth-First Search (DFS) and Breadth-First Search (BFS). This notebook includes a practical implementation where these algorithms are used to find and analyze routes between different towns in Mallorca, evaluating which method is more effective for navigating geographical connections.
-  
+* **DFS, BFS and Pathfinding:** A comparative study of Depth-First Search (DFS) and Breadth-First Search (BFS) for pathfinding tasks. This notebook includes a practical application where these algorithms are used to navigate a network of towns in Mallorca. It analyzes how different traversal methods affect the efficiency of finding paths and identifies which algorithms guarantee the shortest route between locations.
+
 ### 3. Data Structures and Sorting
 * **Sorting Algorithms:** A practical laboratory comparing various sorting methods. It includes performance analysis and execution time measurements to visualize the efficiency of different algorithmic approaches.
 
